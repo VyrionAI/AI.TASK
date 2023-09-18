@@ -41,7 +41,6 @@ Make your changes and commit them.
 Create a pull request with a clear description of your contribution.
 We'll review your pull request and work with you to incorporate your changes into the repository.
 
-License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
